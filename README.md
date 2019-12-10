@@ -21,3 +21,5 @@ This gif plays slower than the actual video created, [click here](https://giant.
 
 
 This is my first hobby project in Python. I tried to make the code as clear as possible and add comments where necessary, hopefully this makes the code easier to understand. Feedback or questions are always welcome!
+
+Inspired by: https://github.com/guushoekman/train-journeys
