@@ -1,0 +1,414 @@
+Station,Code,Lat,Lon,Street,Number,Postal Code,City,Country
+s-Hertogenbosch,ht,51.69048,5.29362,Stationspasserelle,10,5211 AZ,'s-Hertogenbosch,Netherlands
+s-Hertogenbosch Oost,hto,51.70055389,5.318333149,Zandzuigerstraat,101,5231 XW,'s-Hertogenbosch,Netherlands
+t Harde,hde,52.4091682,5.893611,Eperweg,123,8084 HD,'t Harde,Netherlands
+Aalten,atn,51.92132652,6.578627228999999,Stationsstraat,38,7122 AT,Aalten,Netherlands
+Abcoude,ac,52.2785,4.977,Spoorlaan,??,1391,Abcoude,Netherlands
+Akkrum,akm,53.04639053,5.84361124,Alde Rykswei,??,8491,Akkrum,Netherlands
+Alkmaar,amr,52.63777924,4.739722252,Stationsweg,43B,1815 CB,Alkmaar,Netherlands
+Alkmaar Noord,amrn,52.64389038,4.764166832,Drechterwaard,102-104,1824 DX,Alkmaar,Netherlands
+Almelo,aml,52.35805511,6.653888702000001,Parallelweg,50,7604 TX,Almelo,Netherlands
+Almelo de Riet,amri,52.34194565,6.666666508,Rietstraat,226,7606 BW,Almelo,Netherlands
+Almere Buiten,almb,52.39416504,5.278055668,Keerkringplein,48,1334 BS,Almere,Netherlands
+Almere Centrum,alm,52.375029999999995,5.21764,Busplein,40,1315 KV,Almere,Netherlands
+Almere Muziekwijk,almm,52.36750031,5.190277576000001,Chopinpad,??,1323,Almere,Netherlands
+Almere Oostvaarders,almo,52.40333176,5.300555706,Insulindepad,??,1335,Almere,Netherlands
+Almere Parkwijk,almp,52.37666702,5.244722366,Spoorbaanpad,95,1326 CN,Almere,Netherlands
+Almere Poort,ampo,52.342778,5.151944,??,??,1362,Almere,Netherlands
+Alphen a/d Rijn,apn,52.12444305,4.6577777860000005,Stationsplein,10,2405 BK,Alphen aan Den Rijn,Netherlands
+Amersfoort Centraal,amf,52.1538887,5.370555401,Stationsplein,147,3818 LE,Amersfoort,Netherlands
+Amersfoort Schothorst,amfs,52.17482214,5.403888702000001,Zielhorsterweg,65,3813 ZX,Amersfoort,Netherlands
+Amersfoort Vathorst,avat,52.19277954,5.4338889120000005,Laakboulevard,??,3829,Hooglanderveen,Netherlands
+Amsterdam Amstel,asa,52.34666824,4.917778015,Julianaplein,1A,1097 DN,Amsterdam,Netherlands
+Amsterdam Bijlmer ArenA,asb,52.31222153,4.946944237,ArenA Boulevard,618,1102,Amsterdam Zuid-Oost,Netherlands
+Amsterdam Centraal,asd,52.37888718,4.900277615,Stationsplein,2,1012,Amsterdam,Netherlands
+Amsterdam Holendrecht,ashd,52.29844,4.95972,Meibergdreef,2,1105 AX,Amsterdam Zuid-Oost,Netherlands
+Amsterdam Lelylaan,asdl,52.35777664,4.833889008,Cornelis Lelylaan,37,1062 HD,Amsterdam,Netherlands
+Amsterdam Muiderpoort,asdm,52.36055374,4.931111336,Oosterspoorplein,1,1093 JW,Amsterdam,Netherlands
+Amsterdam RAI,rai,52.33722305,4.890277863000001,Ringweg Zuid,??,??,Amsterdam,Netherlands
+Amsterdam Science Park,assp,52.355259999999994,4.94651,Carolina MacGillavrylaan,1882,1098,Amsterdam,Netherlands
+Amsterdam Sloterdijk,ass,52.38888931,4.837777615,Orlyplein,109,1043 DT,Amsterdam,Netherlands
+Amsterdam Van der Madeweg,vmw,52.330134,4.92975,Entrada,512,1115 SE,Duivendrecht,Netherlands
+Amsterdam Zuid,asdz,52.33889008,4.871666431,Ringweg Zuid,??,1082,Amsterdam,Netherlands
+Anna Paulowna,ana,52.86722183,4.811110973,Stationsweg,21,1761 EB,Anna Paulowna,Netherlands
+Apeldoorn,apd,52.20916748,5.9702777860000005,Stationsplein,22,7311,Apeldoorn,Netherlands
+Apeldoorn De Maten,apdm,52.20527649,6.000555515,Laan van Zonnehoeve,13,7325 AV,Apeldoorn,Netherlands
+Apeldoorn Osseveld,apdo,52.21527863,6.004444599,Linie,542,7325 DZ,Apeldoorn,Netherlands
+Appingedam,apg,53.3258135,6.8619577000000005,Spoorbaan,2,9901 DD,Appingedam,Netherlands
+Arkel,akl,51.87194443,4.992777824,Parallelweg,??,4241,Arkel,Netherlands
+Arnemuiden,arn,51.50166702,3.669166565,Singel,??,4341,Arnemuiden,Netherlands
+Arnhem Centraal,ah,51.98500061,5.899166584,Renssenbrug,??,6811,Arnhem,Netherlands
+Arnhem Presikhaaf,ahpr,51.98805618,5.943888664,Eleonorastraat,13,6824 EX,Arnhem,Netherlands
+Arnhem Velperpoort,ahp,51.98527908,5.919444561000001,Sonsbeeksingel,153-155,6822 BM,Arnhem,Netherlands
+Arnhem Zuid,ahz,51.95500183,5.851944447,Viaduct Schuytgraaf,??,??,Arnhem,Netherlands
+Assen,asn,52.99166489,6.5708332060000005,Stationsplein,2,9401 LB,Assen,Netherlands
+Baarn,brn,52.20833206,5.280833244,Stationsplein,66A,3743 KM,Baarn,Netherlands
+Bad Nieuweschans,nsch,53.1844,7.19937,Stationsstraat,27,9693 AA,Bad Nieuweschans,Netherlands
+Baflo,bf,53.36089690000001,6.5185581,Stationsweg,2,9953 RG,Baflo,Netherlands
+Barendrecht,brd,51.85472107,4.553333282,Zuideinde,??,2991,Barendrecht,Netherlands
+Barneveld Centrum,bnc,52.13999939,5.590277672000001,Stationsplein,4,3771 ES,Barneveld,Netherlands
+Barneveld Noord,bnn,52.16138839999999,5.598055362999999,Spoorlijnpad,??,3771,Barneveld,Netherlands
+Barneveld Zuid,bnz,52.128853,5.60246,Oud Vellerseweg,10,3772 PA,Barneveld,Netherlands
+Bedum,bdm,53.30688570000001,6.5930539999999995,Parallelweg,??,9781,Bedum,Netherlands
+Beek-Elsloo,bk,50.94749832,5.78666687,Aan de Drie Heren,4,6191 BH,Beek,Netherlands
+Beesd,bsd,51.89944458,5.194444656,Stationsweg,4,4153 RD,Beesd,Netherlands
+Beilen,bl,52.85472107,6.521111012,Stationslaan,11,9411 PS,Beilen,Netherlands
+Bergen op Zoom,bgn,51.49388885,4.296111107,Parallelweg,56-57,4621 JS,Bergen op Zoom,Netherlands
+Best,bet,51.50999832,5.389166832000001,Stationsstraat,1,5683 BA,Best,Netherlands
+Beverwijk,bv,52.47833252,4.656666756,A22,??,1948,Beverwijk,Netherlands
+Bilthoven,bhv,52.13000107,5.203888893,Spoorlaan,3A,3721 PA,Bilthoven,Netherlands
+Blerick,br,51.37250137,6.15500021,Kazernestraat,3,5928 NL,Venlo,Netherlands
+Bloemendaal,bll,52.40416718,4.627500057,Zuider Stationsweg,20,2061 HE,Bloemendaal,Netherlands
+Bodegraven,bdg,52.08139038,4.746110916,Stationsplein,5,2411 EH,Bodegraven,Netherlands
+Borne,bn,52.29888916,6.748055458,Ruwerstraat,130,7621 SV,Borne,Netherlands
+Boskoop,bsk,52.07777786,4.646944523,Parklaan,8-10,2771 GB,Boskoop,Netherlands
+Boven-Hardinxveld,bhdv,51.832221999999994,4.878056,Parallelweg,166,3371 GH,Hardinxveld-Giessendam,Netherlands
+Bovenkarspel Flora,bkf,52.69610977,5.252777576000001,Broekerhavenweg,75,1611 CA,Bovenkarspel,Netherlands
+Bovenkarspel-Grootebroek,bkg,52.69499969,5.23777771,Middenweg,14,1611 KP,Bovenkarspel,Netherlands
+Boxmeer,bmr,51.64452177,5.939033031,Stationsweg,1,5831 CR,Boxmeer,Netherlands
+Boxtel,btl,51.58433,5.31912,Traverse,??,5281,Boxtel,Netherlands
+Breda,bd,51.59555435,4.78000021,Centraal Busstation,??,4815,Breda,Netherlands
+Breda-Prinsenbeek,bdpb,51.60638809,4.720833302,Moskespad,??,4822,Breda,Netherlands
+Breukelen,bkl,52.171490000000006,4.9906,De Corridor,5,3621 ZA,Breukelen,Netherlands
+Brummen,bmn,52.09111023,6.146944522999999,Stationsweg,1,6971 BX,Brummen,Netherlands
+Buitenpost,bp,53.2564547,6.1446496,Stationsplein,2,9285 VW,Buitenpost,Netherlands
+Bunde,bde,50.89694595,5.736666679,Prinses Wilhelminaweg,27,6241 EV,Bunde,Netherlands
+Bunnik,bnk,52.06305695,5.194444656,Groeneweg,150B,3981 CP,Bunnik,Netherlands
+Bussum Zuid,bsmz,52.26583481,5.16305542,Struiheiweg,??,1406,Bussum,Netherlands
+Capelle Schollevaar,cps,51.95416641,4.584166527,Stationsplein,1B,2907 MJ,Capelle aan Den IJssel,Netherlands
+Castricum,cas,52.54583359,4.658611298,Stationsweg,6,1901 AA,Castricum,Netherlands
+Chevremont,cvm,50.87611008,6.059722423999999,Schoutstraat,73,6463 EE,Kerkrade,Netherlands
+Coevorden,co,52.66361237,6.735555649,Stationsstraat,16,7741 EK,Coevorden,Netherlands
+Cuijk,ck,51.72668259,5.874295235,Stationsplein,2-3,5431 CE,Cuijk,Netherlands
+Culemborg,cl,51.94666672,5.226944447,Parallelweg Oost,19,4103 NC,Culemborg,Netherlands
+Daarlerveen,da,52.4407702,6.5759947,Grote Veenweg,2-4,7687 AV,Daarlerveen,Netherlands
+Dalen,dln,52.69416809,6.758055687000001,Kymmelskampen,3-4,7751 GN,Dalen,Netherlands
+Dalfsen,dl,52.49833298,6.258611202000001,Heinoseweg,1,7722 JM,Dalfsen,Netherlands
+De Vink,dvnk,52.14722061,4.45638895,Maria Austriapad,??,2331,Leiden,Netherlands
+De Westereen,dwe,53.248169999999995,6.03463,Bûterwei,14,9271 EN,De Westereen,Netherlands
+Deinum,dei,53.1888115,5.7281572,Spoorstrjitte,18,9033 WJ,Deinum,Netherlands
+Delden,ddn,52.25999832,6.716111183,De Reigerstraat,78,7491 XV,Delden,Netherlands
+Delft,dt,52.00666809,4.356389046,Van Leeuwenhoeksingel,42B,2611 AC,Delft,Netherlands
+Delft Zuid,dtz,51.99083328,4.364722252,Kruithuispad,??,2623 CS,Delft,Netherlands
+Delfzijl,dz,53.3336625,6.924079700000001,Johan van Den Kornputplein,1A,9934 EA,Delfzijl,Netherlands
+Delfzijl West,dzw,53.3320834,6.9069092,Hogelandsterweg,??,??,Delfzijl,Netherlands
+Den Dolder,dld,52.14027786,5.242777824,Fornheselaan,50,3734 GD,Den Dolder,Netherlands
+Den Haag Centraal,gvc,52.08027649,4.3249998089999995,Rijnstraat,8,2515 XP,Den Haag,Netherlands
+Den Haag HS,gv,52.06972122,4.322500229,Stationsplein,49,2515 BW,Den Haag,Netherlands
+Den Haag Laan v NOI,laa,52.07860947,4.342777729,Van Alphenstraat,92,2274 ND,Voorburg,Netherlands
+Den Haag Mariahoeve,gvm,52.0905571,4.36944437,Appelgaarde,??,2272 TD,Voorburg,Netherlands
+Den Haag Moerwijk,gvmw,52.05389023,4.308610916,Hildebrandstraat,90,2524 VL,Den Haag,Netherlands
+Den Haag Ypenburg,ypb,52.05527878,4.392222404,Ypenburgse Stationsweg,??,2496,Den Haag,Netherlands
+Den Helder,hdr,52.95527649,4.761111259,Boerhaavestraat,38,1782 AB,Den Helder,Netherlands
+Den Helder Zuid,hdrz,52.93249893,4.764166832,Voeetgangers/fietstunnel station Zuid,??,1785,Den Helder,Netherlands
+Deurne,dn,51.45583344,5.788888931000001,Fabriekstraat,16,5753 AH,Deurne,Netherlands
+Deventer,dv,52.25749969,6.160555362999999,Stationsplein,6,7411 HB,Deventer,Netherlands
+Deventer Colmschate,dvc,52.25027847,6.214444637000001,Piet van Donkplein,1,7422 LW,Deventer,Netherlands
+Didam,did,51.933502000000004,6.1324106,Stationslaan,5,6942 EG,Didam,Netherlands
+Diemen,dmn,52.34583282,4.965555668,Martin Luther Kinglaan,24,1111,Diemen,Netherlands
+Diemen Zuid,dmnz,52.33027649,4.955833435,Diemerdreef,2,1112 CK,Diemen,Netherlands
+Dieren,dr,52.04499817,6.103055477000001,Noorder Parallelweg,27,6951 AA,Dieren,Netherlands
+Doetinchem,dtc,51.9585962,6.2962148000000004,Stationsplein,8,7005 AK,Doetinchem,Netherlands
+Doetinchem De Huet,dtch,51.95914129999999,6.259852099999999,Jan Willinkstraat,2,7006 NA,Doetinchem,Netherlands
+Dordrecht,ddr,51.80722046,4.66833353,Stationsplein,1,3311 JV,Dordrecht,Netherlands
+Dordrecht Stadspolders,ddrs,51.80194473,4.716666698,Dudokplein,200,3315 KH,Dordrecht,Netherlands
+Dordrecht Zuid,ddzd,51.79000092,4.671389103,Randweg,??,3318,Dordrecht,Netherlands
+Driebergen-Zeist,db,52.0652771,5.258611202,Stationsweg,4,3972 KA,Driebergen-Rijsenburg,Netherlands
+Driehuis,drh,52.44250107,4.638055325,Van Den Vondellaan,100,1985 BD,Driehuis,Netherlands
+Dronrijp,drp,53.1778086,5.634741099999999,Hatzum,13B,9035 VK,Dronryp,Netherlands
+Dronten,dron,52.5344,5.72089,De Noord,??,8251,Dronten,Netherlands
+Duiven,dvn,51.94333267,6.014722347,Parallelweg,32,6922 HR,Duiven,Netherlands
+Duivendrecht,dvd,52.32333374,4.936388968999999,Stationsplein,1,1115 BZ,Duivendrecht,Netherlands
+Echt,ec,51.10055542,5.878889084,Stationsweg,1,6101 HK,Echt,Netherlands
+Ede Centrum,edc,52.04360962,5.66833353,Museumplein,7,6711 NA,Ede,Netherlands
+Ede-Wageningen,ed,52.02777863,5.673055649,Klinkenbergerweg,116,6711 ML,Ede,Netherlands
+Eijs-Wittem,wtm,50.823170000000005,5.92479,Wittemerweg,5,6287 AA,Eys,Netherlands
+Eijsden,edn,50.77194595,5.7100000379999996,Stationsplein,7-8,6245 AE,Eijsden,Netherlands
+Eindh Beukenln tot 13 dec,ehb,51.45111084,5.455833435,Achtseweg Zuid,151,5651 GW,Eindhoven,Netherlands
+Eindhoven,ehv,51.44333267,5.481389046,Kennedyplein,230,5611,Eindhoven,Netherlands
+Eindhoven Strijp-S,ehs,51.45111084,5.455833435,Achtseweg Zuid,151,5651 GW,Eindhoven,Netherlands
+Elst,est,51.916942600000006,5.855000018999999,Oude Aamsestraat,??,6662,Elst,Netherlands
+Emmen,emn,52.79000092,6.89944458,Stationsstraat,79,7811 GS,Emmen,Netherlands
+Emmen Zuid,emnz,52.74886637,6.874780655,Nieuw Amsterdamsestraat,86,??,Emmen,Netherlands
+Enkhuizen,ekz,52.69916534,5.286388874,Bosmankade,??,1601,Enkhuizen,Netherlands
+Enschede,es,52.22249985,6.889999866,Stationsplein,33,7511 JD,Enschede,Netherlands
+Enschede De Eschmarke,ese,52.22138977,6.9511113170000005,Lenteweg,20,7532 RB,Enschede,Netherlands
+Enschede Drien tot 13 dec,esd,52.23749924,6.838889122,Forum,10,7521 PM,Enschede,Netherlands
+Enschede Kennispark,esk,52.23749924,6.838889122,Forum,10,7521 PM,Enschede,Netherlands
+Ermelo,eml,52.30166626,5.614722252000001,Van Den Berghlaan,68,3853 KR,Ermelo,Netherlands
+Etten-Leur,etn,51.57500076,4.635833263,Stationsplein,2,4872 XL,Etten-Leur,Netherlands
+Eygelshoven,egh,50.89055634,6.045000076,Provinciale Weg,??,6469,Kerkrade,Netherlands
+Eygelshoven Markt,eghm,50.89604982,6.060247421000001,Hermanstraat,21,6471 XZ,Eygelshoven,Netherlands
+Feanwalden,fwd,53.235183400000004,5.9886615,Stasjonwei,1,9269 PG,Feanwâlden,Netherlands
+Franeker,fn,53.1824488,5.548309400000001,Anna Maria van Schurmansingel,59,8801 JR,Franeker,Netherlands
+Gaanderen,gdr,51.93074,6.3486,Branderstraat,??,7011,Gaanderen,Netherlands
+Geerdijk,gdk,52.47625,6.566739999999999,Geerdijk,60-66,7681 SE,Vroomshoop,Netherlands
+Geldermalsen,gdm,51.88301,5.2712699999999995,Genteldijk,5,4191 LD,Geldermalsen,Netherlands
+Geldrop,gp,51.41972351,5.550555706,Tournooiveld,14,5663 EA,Geldrop,Netherlands
+Geleen Oost,gln,50.96694565,5.843055725,Stationstraat,13,6166 CB,Geleen,Netherlands
+Geleen-Lutterade,lut,50.97555542,5.82472229,Westelijke Randweg,??,6162,Geleen,Netherlands
+Gilze-Rijen,gz,51.58361053,4.926111221,Parallelweg,10,5121 LD,Rijen,Netherlands
+Glanerbrug,gbr,52.21861267,6.974444388999999,Vijverstraat,16,7532 AM,Enschede,Netherlands
+Goes,gs,51.498054499999995,3.89055562,Stationspark,29A,4462 DZ,Goes,Netherlands
+Goor,go,52.23027802,6.584444522999999,Stationslaan,14-16,7471 AP,Goor,Netherlands
+Gorinchem,gr,51.83388901,4.968333244,Stationsweg,17,4205 AA,Gorinchem,Netherlands
+Gouda,gd,52.01750183,4.7044444080000005,Stationsplein,8A,2801 AK,Gouda,Netherlands
+Gouda Goverwelle,gdg,52.01499939,4.740833282,Willensplein,129,2807 PA,Gouda,Netherlands
+Gramsbergen,gbg,52.60916519,6.675833225,De Oostermaat,46,7783 BX,Gramsbergen,Netherlands
+Grijpskerk,gk,53.25574033,6.30977869,Stationsstraat,29-30,9843 AE,Grijpskerk,Netherlands
+Groningen,gn,53.21055603,6.564722061,Stationsplein,26,9726 AE,Groningen,Netherlands
+Groningen Europapark,gerp,53.20480027,6.5854178,Europapad,??,9722,Groningen,Netherlands
+Groningen Noord,gnn,53.2301469,6.5563172000000005,Kastanjelaan,??,9741,Groningen,Netherlands
+Grou-Jirnsum,gw,53.08889008,5.822500229,A32,??,9001,Grou,Netherlands
+Gulpen-Wijlre,wij,50.833056,5.8980559999999995,Parallelweg,7,6321,Wijlre,Netherlands
+Haarlem,hlm,52.38777924,4.638333321,Stationsplein,1-3,2011,Haarlem,Netherlands
+Haarlem Spaarnwoude,hlms,52.38277817,4.673055649,Camera Obscuraweg,??,??,Haarlem,Netherlands
+Halfweg-Zwanenburg,hwzb,52.385934999999996,4.747165,Oude Haarlemmerstraatweg,??,1165,Halfweg,Netherlands
+Hardenberg,hdb,52.57277679,6.6286110879999995,Parallelweg,5-6,7772 SB,Hardenberg,Netherlands
+Harderwijk,hd,52.33750153,5.619722366,Stationsplein,2,3844 KR,Harderwijk,Netherlands
+Hardinxveld Blauwe Zoom,hbzm,51.829440000000005,4.81556,Schapedrift,99,3371 JJ,Hardinxveld-Giessendam,Netherlands
+Hardinxveld-Giessendam,gnd,51.83055496,4.835833549,Spoorweg,30,3373 AP,Hardinxveld-Giessendam,Netherlands
+Haren,hrn,53.17610931,6.617222309,Emdaborg,38,9751 SJ,Haren,Netherlands
+Harlingen,hlg,53.1704205,5.4251932,Stationsweg,6B,8861 GA,Harlingen,Netherlands
+Harlingen Haven,hlgh,53.174917,5.4112885,Hoge Willemskade,??,8861,Harlingen,Netherlands
+Heemskerk,hk,52.4952774,4.686944485,Kadijk,47,1967,Heemskerk,Netherlands
+Heemstede-Aerdenhout,had,52.35916519,4.606666565,Leidsevaartweg,??,2106,Heemstede,Netherlands
+Heerenveen,hr,52.96138763,5.914166451,Beugel,24,8447,Heerenveen,Netherlands
+Heerenveen IJsstadion,hry,52.93527603,5.943888664,Uraniumweg,2,8445 PH,Heerenveen,Netherlands
+Heerhugowaard,hwd,52.66972351,4.822777748,Stationsplein,39,1703 WD,Heerhugowaard,Netherlands
+Heerlen,hrl,50.89083481,5.974999905,Spoorsingel,65,6412 AA,Heerlen,Netherlands
+Heerlen De Kissel,hrlk,50.89016893,5.9933424,Mijnspoorweg,??,6416,Heerlen,Netherlands
+Heerlen Woonboulevard,hrlw,50.896667,5.952222,In de Cramer,88,6412,Heerlen,Netherlands
+Heeze,hze,51.38499832,5.569444656,De Leuren,19,5591 ND,Heeze,Netherlands
+Heiloo,hlo,52.59944534,4.700555325,Hoog en Laag,125,1852 AX,Heiloo,Netherlands
+Heino,hno,52.42722321,6.221111297999999,Stationsweg,31,8141 SK,Heino,Netherlands
+Helmond,hm,51.47555542,5.661944388999999,Stationsplein,7,5701 PE,Helmond,Netherlands
+Helmond 't Hout,hmh,51.467940000000006,5.63085,Meester Stikkerplein,??,5707,Helmond,Netherlands
+Helmond Brandevoort,hmbv,51.46222305,5.60722208,Diepenbroeksingel,??,5707,Helmond,Netherlands
+Helmond Brouwhuis,hmbh,51.47068,5.70177,Deltaweg,185-447,5709,Helmond,Netherlands
+Hemmen-Dodewaard,hmn,51.9222129,5.6737254,Boelenhamsestraat,8,6669 MN,Dodewaard,Netherlands
+Hengelo,hgl,52.26166534,6.793889046,Stationsplein,321,7551 CN,Hengelo,Netherlands
+Hengelo Gezondheidspark,hglg,52.261666999999996,6.773611,Magdalenalaan,8-9,7555 TA,Hengelo,Netherlands
+Hengelo Oost,hglo,52.26889038,6.819444656,Zwavertsweg,114,7552 ML,Hengelo,Netherlands
+Hillegom,hil,52.30250168,4.565555573,2e Loosterweg,2A,2182 CJ,Hillegom,Netherlands
+Hilversum,hvs,52.22583389,5.18194437,Wilhelminastraat,1,1211 RH,Hilversum,Netherlands
+Hilversum Media Park,hvsm,52.23805618,5.173888683,Mies Bouwman-boulevard,??,1217,Hilversum,Netherlands
+Hilversum Sportpark,hvsp,52.21611023,5.187222004,Athene,??,1213,Hilversum,Netherlands
+Hindeloopen,hnp,52.946490299999994,5.423063,Stationsweg,??,8713,Hindeloopen,Netherlands
+Hoek van Holland Haven,hld,51.97527695,4.128889084,Stationsweg,1,3151 HR,Hoek van Holland,Netherlands
+Hoek van Holland Strand,hlds,51.98166656,4.119722366,Stationsweg,86,3151 HS,Hoek van Holland,Netherlands
+Hoensbroek,hb,50.90555573,5.930555344,Economiestraat,1,6433 KC,Hoensbroek,Netherlands
+Hoevelaken,hvl,52.16652,5.45718,Rijksweg,??,3836,Stoutenburg-Noord,Netherlands
+Hollandsche Rading,hor,52.17777634,5.1791667939999995,Vuurse Dreef,14,3739 KT,Hollandsche Rading,Netherlands
+Holten,hon,52.28388977,6.420277596,Stationsstraat,10,7451 BH,Holten,Netherlands
+Hoofddorp,hfd,52.29333496,4.700555325,R-Net,??,2132,Hoofddorp,Netherlands
+Hoogeveen,hgv,52.73389053,6.473610878,Stationsplein,1A,7901 AA,Hoogeveen,Netherlands
+Hoogezand-Sappemeer,hgz,53.15981813,6.77075386,Stationsweg,45,9601 BJ,Hoogezand,Netherlands
+Hoogkarspel,hks,52.69055557,5.183888912,Stationslaan,14,1616 CM,Hoogkarspel,Netherlands
+Hoorn,hn,52.64472198,5.055555344,Stationsplein,2R,1621 HX,Hoorn,Netherlands
+Hoorn Kersenboogerd,hnk,52.65361023,5.085555553,Rijnweg,51-52,1628 PC,Hoorn,Netherlands
+Horst-Sevenum,hrt,51.42638779,6.042222023,Industrieweg,20,5975 RL,Sevenum,Netherlands
+Houten,htn,52.03402,5.16821,Kopermolen,??,3995,Houten,Netherlands
+Houten Castellum,htnc,52.01701,5.17949,Castellumpad,??,3995,Houten,Netherlands
+Houthem-St Gerlach,sgl,50.87333298,5.797222137,Meerssenderweg,10,6301 JH,Valkenburg,Netherlands
+Hurdegaryp,hdg,53.2187783,5.934543,Stationsweg,39,9254 HA,Hurdegaryp,Netherlands
+IJlst,ijt,53.014661399999994,5.6160801,Zuidwesthoekweg,4,8651 JB,IJlst,Netherlands
+Kampen,kpn,52.55972289999999,5.921666622,Spoorkade,2,8267 AA,Kampen,Netherlands
+Kampen Zuid,kpnz,52.5331,5.91309,Burgemeester Van Tuinenplein,??,8265,Kampen,Netherlands
+Kapelle-Biezelinge,bzl,51.48083496,3.956111193,Stationsstraat,47-49,4421 AK,Kapelle,Netherlands
+Kerkrade Centrum,krd,50.86166763,6.0574998860000004,Museumplein,2,6461 MA,Kerkrade,Netherlands
+Kerkrade West,krw,50.85355,6.02578,Plein,37,6466 GG,Kerkrade,Netherlands
+Kesteren,ktr,51.9313869,5.583346499999999,Stationsstraat,40,4041 CJ,Kesteren,Netherlands
+Klarenbeek,kbk,52.17805481,6.083611012,Hoofdweg,8,7382 BH,Klarenbeek,Netherlands
+Klimmen-Ransdaal,kmr,50.86639023,5.8905553820000005,Mareheiweg,2,6343 EK,Klimmen,Netherlands
+Koog Bloemwijk,kbw,52.45861053,4.805555344,Provincialeweg,??,1541,Koog aan de Zaan,Netherlands
+Koog-Zaandijk,kzd,52.46916579999999,4.804999828,Kogertunnel,??,1541,Koog aan de Zaan,Netherlands
+Koudum-Molkwerum,kmw,52.9028197,5.4106913,Stationswei,22,8722 HB,Molkwerum,Netherlands
+Krabbendijke,kbd,51.43333435,4.116944313,Spoorlaan,7,4413 AS,Krabbendijke,Netherlands
+Krommenie-Assendelft,kma,52.49511,4.754169999999999,Saendelverlaan,2,1561 KS,Krommenie,Netherlands
+Kropswolde,kw,53.16173620000001,6.7220882,Woldweg,46,9607 PR,Foxhol,Netherlands
+Kruiningen-Yerseke,krg,51.46500015,4.037222385,Stationsweg,14-20,4416,Kruiningen,Netherlands
+Lage Zwaluwe,zlw,51.69111252,4.66305542,Westelijke Parallelweg,11,4765 SK,Zevenbergschen Hoek,Netherlands
+Landgraaf,lg,50.89638901,6.01916647,Stationsplein,65-66,6372,Landgraaf,Netherlands
+Leerdam,ldm,51.89472198,5.091388702,Parallelweg,13,4143 LA,Leerdam,Netherlands
+Leeuwarden,lw,53.19583511,5.792222023,Achter Het Station,1,8932,Leeuwarden,Netherlands
+Leeuwarden Achter d Hoven,adh,53.198890000000006,5.81639,Spoorstraat,186,8933 CJ,Leeuwarden,Netherlands
+Leeuwarden Camminghaburen,lwc,53.202180799999994,5.8422968,Orionweg,45,8938,Leeuwarden,Netherlands
+Leiden Centraal,ledn,52.16611099,4.481666565,Stationsplein,3J,2312 AJ,Leiden,Netherlands
+Leiden Lammenschans,ldl,52.14694595,4.492499828,Kamerlingh Onnesplein,4,2313 VL,Leiden,Netherlands
+Lelystad Centrum,lls,52.50777817,5.472777842999999,Stationsplein,5,8232 DL,Lelystad,Netherlands
+Lichtenvoorde-Groenlo,ltv,52.01188,6.5964100000000006,Stationsstraat,16,7137 MX,Lievelde,Netherlands
+Lochem,lc,52.16666794,6.426388741,Stationsplein,1,7241 CV,Lochem,Netherlands
+Loppersum,lp,53.334714500000004,6.7472625,Stationslaan,10,9919 AB,Loppersum,Netherlands
+Lunteren,ltn,52.08527756,5.624444485,Spoorstraat,4,6741 DE,Lunteren,Netherlands
+Maarheeze,mz,51.30376236,5.63034296,Den Engelsman,6,6026 RB,Maarheeze,Netherlands
+Maarn,mrn,52.06416702,5.3699998860000004,Rijksweg,??,3951,Maarn,Netherlands
+Maarssen,mas,52.13527679,5.033611298,Safariweg,34-36,3605,Maarssen,Netherlands
+Maassluis,mss,51.91611099,4.254722118,Prinses Beatrixlaan,12,3143 LA,Maassluis,Netherlands
+Maassluis West,msw,51.92583466,4.2361111639999995,Koningshoek,??,3144,Maassluis,Netherlands
+Maastricht,mt,50.85027695,5.705555438999999,Stationsplein,29,6221 BT,Maastricht,Netherlands
+Maastricht Noord,mtn,50.870870000000004,5.71774,Mariënwaard,44,6222 AN,Maastricht,Netherlands
+Maastricht Randwyck,mtr,50.83861160000001,5.7172222139999995,Universiteitssingel,30,6229 ER,Maastricht,Netherlands
+Mantgum,mg,53.1296368,5.7131996,Tsjeintgum,??,9022,Mantgum,Netherlands
+Mariënberg,mrb,52.50944519,6.575277805,Stationsweg,2,7692 AC,Mariënberg,Netherlands
+Martenshoek,mth,53.16072320000001,6.7402989,Spoorstraat-Zuid,36,9602 AA,Hoogezand,Netherlands
+Meerssen,mes,50.88287939,5.750999451,Stationsplein,4,6231 CN,Meerssen,Netherlands
+Meppel,mp,52.69083405,6.197500229,Leonard Springerlaan,4,7941 GW,Meppel,Netherlands
+Middelburg,mdb,51.49472046,3.6172223089999997,Segeerssingel,64,4337 LH,Middelburg,Netherlands
+Mook Molenhoek,mmlh,51.77158,5.88145,Lierdwarsweg,??,6584,Molenhoek,Netherlands
+Naarden-Bussum,ndb,52.28027725,5.156944275,Parallelweg,11,1405 AE,Bussum,Netherlands
+Nieuw Amsterdam,,52.71861267,6.848610878,Veilingstraat,41,7844 NX,Veenoord,Netherlands
+Nieuw Vennep,nvp,52.25888824,4.645555496,Venneperweg,301,2153 MA,Nieuw-Vennep,Netherlands
+Nieuwerkerk a/d IJssel,nwk,51.96527863,4.616944313,Oranjepad,2,2911 AP,Nieuwerkerk aan Den IJssel,Netherlands
+Nijkerk,nkk,52.22222137,5.493888855,Willem Alexanderplein,16,3862 CE,Nijkerk,Netherlands
+Nijmegen,nm,51.84361267,5.852222443,Tunnelweg,??,??,Nijmegen,Netherlands
+Nijmegen Dukenburg,nmd,51.82416534,5.795555592,Zwanenveld,8132-8204,6538,Nijmegen,Netherlands
+Nijmegen Goffert,nmgo,51.8273,5.822722,Mulderspad,??,6534,Nijmegen,Netherlands
+Nijmegen Heyendaal,nmh,51.82694626,5.867499828,Verlengde Groenestraat,21,6525 EG,Nijmegen,Netherlands
+Nijmegen Lent,nml,51.861810999999996,5.859686,Snelbinder,??,6663,Nijmegen,Netherlands
+Nijverdal,nvd,52.36555,6.4711110000000005,N35,??,7443,Nijverdal,Netherlands
+Nunspeet,ns,52.37083435,5.785277842999999,Plesmanlaan,3,8072 PT,Nunspeet,Netherlands
+Nuth,nh,50.91944504,5.89277792,Stationsplein,1,6361 BG,Nuth,Netherlands
+Obdam,obd,52.67805481,4.907222271,Stationsweg,3,1713 HM,Obdam,Netherlands
+Oisterwijk,ot,51.58222198,5.19416666,Spoorlaan,52A,5061 HB,Oisterwijk,Netherlands
+Oldenzaal,odz,52.30638885,6.934722423999999,Stationsstraat,12,7573 AT,Oldenzaal,Netherlands
+Olst,ost,52.33472061,6.113055706,Stationsweg,34,8121 CL,Olst,Netherlands
+Ommen,omn,52.50944519,6.415833472999999,Wolfskuilstraat,22,7731 AT,Ommen,Netherlands
+Oosterbeek,otb,51.99499893,5.840000152999999,Johannahoeveweg,4,6861 WH,Oosterbeek,Netherlands
+Opheusden,op,51.9261615,5.6371145,Parallelweg,6,6669 MJ,Dodewaard,Netherlands
+Oss,o,51.76555634,5.532222271,Spoorlaan,70,5348 KC,Oss,Netherlands
+Oss West,ow,51.75805664,5.50555563,Van Schaikstraat,??,5344,Oss,Netherlands
+Oudenbosch,odb,51.58777618,4.533333302,Stationsstraat,9,4731 GM,Oudenbosch,Netherlands
+Overveen,ovn,52.39110947,4.60611105,Tetterodeweg,3B,2051 EE,Overveen,Netherlands
+Purmerend,pmr,52.50305557,4.953610897,Beatrixplein,89,1441 JR,Purmerend,Netherlands
+Purmerend Overwhere,pmo,52.51139069,4.968333244,Boeierstraat,42,1443 EN,Purmerend,Netherlands
+Purmerend Weidevenne,pmw,52.49659063,4.935629368,Purmerland,12,1448 MD,Purmerend,Netherlands
+Putten,pt,52.26499939,5.575277805,Stationsstraat,127,3881 AC,Putten,Netherlands
+Raalte,rat,52.39166641,6.277500152999999,Stationsstraat,1,8102 EB,Raalte,Netherlands
+Ravenstein,rvs,51.79416656,5.635833262999999,Stationssingel,123,5371 BB,Ravenstein,Netherlands
+Reuver,rv,51.28321917,6.078958511000001,Wilhelminalaan,78A,5953 HB,Reuver,Netherlands
+Rheden,rh,52.00999832,6.030555725,Groenestraat,5A,6991 GA,Rheden,Netherlands
+Rhenen,rhn,51.95861053,5.578333378,Lijnweg,??,3911,Rhenen,Netherlands
+Rijssen,rsn,52.31222153,6.520277977,Stationsdwarsweg,7,7461 AR,Rijssen,Netherlands
+Rijswijk,rsw,52.03972244,4.31916666,Hoogkamerlaan,110,2284 GN,Rijswijk,Netherlands
+Rilland-Bath,rb,51.42277908,4.161110878,Haltestraat,47,4411 NE,Rilland,Netherlands
+Roermond,rm,51.1930542,5.994166851,Stationsplein,8,6041 GN,Roermond,Netherlands
+Roodeschool,rd,53.419212800000004,6.7606167,Stationsstraat,2,9983 ST,Roodeschool,Netherlands
+Roosendaal,rsd,51.54027939,4.4583334919999995,Stationsplein,1A,4702 VX,Roosendaal,Netherlands
+Rosmalen,rs,51.71472168,5.368055344,Vendelierstraat,15,5241 TT,Rosmalen,Netherlands
+Rotterdam Alexander,rta,51.95194626,4.553611279,Station,??,3068,Rotterdam,Netherlands
+Rotterdam Blaak,rtb,51.92027664,4.488888741,Kolk,172,3011 MD,Rotterdam,Netherlands
+Rotterdam Centraal,rtd,51.92499924,4.46888876,Provenierstunnel,??,3013,Rotterdam,Netherlands
+Rotterdam Lombardijen,rlb,51.88000107,4.53138876,Spinozaweg,??,??,Rotterdam,Netherlands
+Rotterdam Noord,rtn,51.9422226,4.481666565,Bergweg,8,3036 BA,Rotterdam,Netherlands
+Rotterdam Stadion,rtst,51.89389038,4.519721985,Olympiaweg,49,3077 AL,Rotterdam,Netherlands
+Rotterdam Zuid,rtz,51.90444565,4.510277748,Rosestraat,1087,3071 AL,Rotterdam,Netherlands
+Ruurlo,rl,52.081088799999996,6.4492655999999995,Vordenseweg,??,7261,Ruurlo,Netherlands
+Santpoort Noord,sptn,52.43388748,4.632500172,Santpoortse Dreef,1,2071 TP,Santpoort-Noord,Netherlands
+Santpoort Zuid,sptz,52.41972351,4.631388664,Willem de Zwijgerlaan,59,2082 BB,Santpoort-Zuid,Netherlands
+Sappemeer Oost,spm,53.158918299999996,6.7955648,Borgercompagniesterstraat,72,9611 KC,Sappemeer,Netherlands
+Sassenheim,ssh,52.215278000000005,4.517222,Stationsplein,??,2361,Warmond,Netherlands
+Sauwerd,swd,53.29113,6.5404,Stationsstraat,35-37,9771,Sauwerd,Netherlands
+Schagen,sgn,52.7844429,4.805277824,Spoorlaan,1,1741 EN,Schagen,Netherlands
+Scheemda,sda,53.165536200000005,6.977777499999999,Stationsstraat,85,9679 EC,Scheemda,Netherlands
+Schiedam Centrum,sdm,51.92124381,4.408993721,Brandersbrug,??,3112,Schiedam,Netherlands
+Schiedam Nieuwland,nwl,51.92222214,4.382222176,Bijdorpplein,1,3118 JE,Schiedam,Netherlands
+Schin op Geul,sog,50.85638809,5.872222423999999,Baanweg,3,6305,Schin op Geul,Netherlands
+Schinnen,sn,50.93916702,5.874444485,Borgerweg,2,6365 CW,Schinnen,Netherlands
+Schiphol Airport,shl,52.30944443,4.761944294,Aankomstpassage,29,1118 AX,Schiphol,Netherlands
+Simpelveld,spv,50.83147507,5.979738235,Gaasstraat,3A,6369 VA,Simpelveld,Netherlands
+Sittard,std,51.00166702,5.858611107000001,Stationsplein,2,6131 AS,Sittard,Netherlands
+Sliedrecht,sdt,51.82972336,4.778333187,Parallelweg,3,3364 AK,Sliedrecht,Netherlands
+Sliedrecht Baanhoek,sdtb,51.829722,4.743333,Intermezzo,??,3364,Sliedrecht,Netherlands
+Sneek,sk,53.032868799999996,5.6523969,Doctor Boumaweg,11-15,8601,Sneek,Netherlands
+Sneek Noord,sknd,53.040931900000004,5.6631808,Worp Tjaardastraat,22,8602 XE,Sneek,Netherlands
+Soest,st,52.17333221,5.309999943,Stationsweg,16,3764 CJ,Soest,Netherlands
+Soest Zuid,stz,52.16527939,5.303055763,Eikenlaan,44,3768 ET,Soest,Netherlands
+Soestdijk,sd,52.18361282,5.3000001910000005,Het Oude Raadhuis,75,3761 AW,Soest,Netherlands
+Spaubeek,sbk,50.9430542,5.851666451,Oliemolenderweg,??,6176,Spaubeek,Netherlands
+Spekholzerheide,sph,50.85355,6.02578,Plein,37,6466 GG,Kerkrade,Netherlands
+Stavoren,stv,52.886553500000005,5.3600212,Stationsweg,19,8715 ES,Stavoren,Netherlands
+Stedum,stm,53.32620920000001,6.687555099999999,Stationsstraat,2,9921 PX,Stedum,Netherlands
+Steenwijk,swk,52.79151099,6.114555762999999,Stationsplein,10,8331 GM,Steenwijk,Netherlands
+Susteren,srn,51.06138992,5.863055706,Spoorstraat,60,6114 EM,Susteren,Netherlands
+Swalmen,sm,51.235820000000004,6.03228,A73,??,6071,Swalmen,Netherlands
+Tegelen,tg,51.33894,6.142530000000001,Steenweg,53,5932 AC,Tegelen,Netherlands
+Terborg,tbg,51.9224549,6.3642465999999995,Stationsweg,25,7061 CT,Terborg,Netherlands
+Tiel,tl,51.88944626,5.422222137,Spoorstraat,5,4001 CN,Tiel,Netherlands
+Tiel Passewaaij,tpsw,51.87388992,5.392222404,Zijweg Oude Tielseweg,1,4014 PG,Wadenoijen,Netherlands
+Tilburg,tb,51.560554499999995,5.0836110119999995,Spoorlaan,37,5038 CB,Tilburg,Netherlands
+Tilburg Reeshof,tbr,51.57361221,4.99444437,Ketelhavenplein,??,5045,Tilburg,Netherlands
+Tilburg Universiteit,tbu,51.56499863,5.051111221,Statenlaan,??,5037,Tilburg,Netherlands
+Twello,twl,52.23777771,6.098610878,Koningin Julianastraat,28,7391 EB,Twello,Netherlands
+Uitgeest,utg,52.52166748,4.701666832,Gorskamplaan,??,1911,Uitgeest,Netherlands
+Uithuizen,uhz,53.409956799999996,6.674886900000001,Industrieweg,2,9981 HJ,Uithuizen,Netherlands
+Uithuizermeeden,uhm,53.4145845,6.720297500000001,Stationsstraat,20,9982 HA,Uithuizermeeden,Netherlands
+Usquert,ust,53.40147420000001,6.6093776,Stationsstraat,2,9988 RP,Usquert,Netherlands
+Utrecht Centraal,ut,52.08889008,5.110277653,Stationshal,6,3511 CE,Utrecht,Netherlands
+Utrecht Leidsche Rijn,utlr,52.09896,5.065230000000001,Huppeldijk,??,3541,Utrecht,Netherlands
+Utrecht Lunetten,utl,52.06555557,5.14416647,Furkaplateau,??,3524,Utrecht,Netherlands
+Utrecht Maliebaan,utm,52.08777618,5.131388664,Maliebaanstation,16,3581 XW,Utrecht,Netherlands
+Utrecht Overvecht,uto,52.11000061,5.124722004,Tiberdreef,24,3561 GG,Utrecht,Netherlands
+Utrecht Terwijde,utt,52.10055542,5.0416665080000005,Hof Ter Weydeweg,27,3543 BC,Utrecht,Netherlands
+Utrecht Zuilen,utzl,52.103055,5.09,Geraniumstraat,56,3551 HD,Utrecht,Netherlands
+Valkenburg,vk,50.86972046,5.832221985,Parallelweg,57,6301 XZ,Valkenburg,Netherlands
+Varsseveld,vsv,51.937257,6.458839,Spoorstraat,53,7051 CH,Varsseveld,Netherlands
+Veendam,vdm,53.10324,6.88475,Spoorweg,6,9641 KH,Veendam,Netherlands
+Veenendaal Centrum,vndc,52.02000046,5.5486111639999995,Rembrandtlaan,15,3904 ZJ,Veenendaal,Netherlands
+Veenendaal West,vndw,52.0280571,5.53138876,Dichterslaan,2,3906 EN,Veenendaal,Netherlands
+Veenendaal-De Klomp,klp,52.04583359,5.573888779,Dokter Hoolboomweg,??,6745,De Klomp,Netherlands
+Veenwouden tot 13 dec,vwd,53.235183400000004,5.9886615,Stasjonwei,1,9269 PG,Feanwâlden,Netherlands
+Velp,vp,51.99472046,5.980278015,Kastanjelaan,11-12,6883 HZ,Velp,Netherlands
+Venlo,vl,51.36360931,6.172777653,Stationsplein,3,5913 AA,Venlo,Netherlands
+Venray,vry,51.526568100000006,6.014177799,Stationsweg,213,5807 AB,Oostrum,Netherlands
+Vierlingsbeek,vlb,51.59193,5.99714,Soetendaal,9,5821 BL,Vierlingsbeek,Netherlands
+Vlaardingen Centrum,vdg,51.9030571,4.344166756,Parallelweg,10,3131 DG,Vlaardingen,Netherlands
+Vlaardingen Oost,vdo,51.91027832,4.361666679,Burgemeester van Lierplein,65,3134,Vlaardingen,Netherlands
+Vlaardingen West,vdw,51.90416718,4.313055515,George Stephensonweg,25,3133 KJ,Vlaardingen,Netherlands
+Vleuten,vtn,52.10305405,5.010833263,Stationsstraat,35,3451 BW,Utrecht,Netherlands
+Vlissingen,vs,51.44583511,3.595277786,Veerhavenweg,??,4382,Vlissingen,Netherlands
+Vlissingen Souburg,vss,51.46472168,3.595277786,Bermweg,1,4388 CA,Oost-Souburg,Netherlands
+Voerendaal,vdl,50.88722229,5.930277824,Hoolstraat,44,6367 GD,Voerendaal,Netherlands
+Voorburg,vb,52.06666565,4.359444618,Utrechtsebaan,??,2271,Voorburg,Netherlands
+Voorhout,vh,52.22444534,4.484444618,De Gaasbak,??,2215,Voorhout,Netherlands
+Voorschoten,vst,52.12527847,4.4324998860000004,Geestwoningpad,??,2254,Voorschoten,Netherlands
+Voorst-Empe,vem,52.15750122,6.143610954,IJsselstraat,2,7399 RC,Empe,Netherlands
+Vorden,vd,52.107194899999996,6.3170457,Stationsweg,33,7251 EL,Vorden,Netherlands
+Vriezenveen,vz,52.402029999999996,6.600410000000001,Wierdenseweg,16,7671 JK,Vriezenveen,Netherlands
+Vroomshoop,vhp,52.4571921,6.569667900000001,Stationslaan,16,7681 DL,Vroomshoop,Netherlands
+Vught,vg,51.65555573,5.291944504,Stationsstraat,29,5261 VB,Vught,Netherlands
+Waddinxveen,wad,52.04416656,4.649722099,Puttelaan,??,2742,Waddinxveen,Netherlands
+Waddinxveen Noord,wadn,52.05500031,4.648333549,Sparrengaarde,45,2742 DM,Waddinxveen,Netherlands
+Warffum,wfm,53.3908431,6.5671364,??,??,9989,Warffum,Netherlands
+Weert,wt,51.24861145,5.703610897000001,Louis Regoutstraat,??,6006,Weert,Netherlands
+Weesp,wp,52.31277847,5.043055534,Stationsplein,2,1382 AD,Weesp,Netherlands
+Wehl,wl,51.957806500000004,6.213844,Stationsstraat,30A,7031 BR,Wehl,Netherlands
+Westervoort,wtv,51.96286,5.9695,Noordelijke Parallelweg,1A,6931 ER,Westervoort,Netherlands
+Wezep,wz,52.45416641,6.002500057000001,Stationsweg,109,8091 AC,Wezep,Netherlands
+Wierden,wdn,52.36138916,6.591666697999999,Spoorstraat,1,7641 BJ,Wierden,Netherlands
+Wijchen,wc,51.8116684,5.73083353,Zomertaling,77,6601,Wijchen,Netherlands
+Wijhe,wh,52.39027786,6.1405553820000005,Spoorslag,??,8131,Wijhe,Netherlands
+Winschoten,ws,53.139237699999995,7.035100999999999,Stationsweg,22,9671 AN,Winschoten,Netherlands
+Winsum,wsm,53.330099399999995,6.5202905,Ubbo J. Mansholtplein,1,9951 BX,Winsum,Netherlands
+Winterswijk,ww,51.967730700000004,6.7155181,Stationsstraat,34,7101 GH,Winterswijk,Netherlands
+Winterswijk West,www,51.97453,6.7041699999999995,Europark,24,7102 AM,Winterswijk,Netherlands
+Woerden,wd,52.08499908,4.893610954,Stationsplein-Zuid,1,3446 GM,Woerden,Netherlands
+Wolfheze,wf,52.0055542,5.79361105,Johannahoeveweg,12,6874 CD,Wolfheze,Netherlands
+Wolvega,wv,52.88083267,6.0036110879999995,Stationsweg,10,8471 AR,Wolvega,Netherlands
+Workum,wk,52.972486399999994,5.4564285,Parallelwei,3,8711 CH,Workum,Netherlands
+Wormerveer,wm,52.48916626,4.792222023,Wandelweg,8,1521 AG,Wormerveer,Netherlands
+Zaandam,zd,52.43888855,4.813611031000001,Provincialeweg,25,1506 MA,Zaandam,Netherlands
+Zaandam Kogerveld,zdk,52.45666504,4.820277691,Veldbloemenweg,2A,1508 WV,Zaandam,Netherlands
+Zaltbommel,zbm,51.80888748,5.263333321,Oude Stationsweg,71,5301 GL,Zaltbommel,Netherlands
+Zandvoort aan Zee,zvt,52.37527847,4.5327777860000005,Haltestraat,77,2042 LL,Zandvoort,Netherlands
+Zetten-Andelst,za,51.920056,5.722840799999999,Parallelweg Noord,4,6671 DK,Zetten,Netherlands
+Zevenaar,zv,51.92305374,6.071944237,Ringbaan Zuid,8,6905,Zevenaar,Netherlands
+Zevenbergen,zvb,51.64042,4.60904,Gildelaan,11,4761 BA,Zevenbergen,Netherlands
+Zoetermeer,ztm,52.04750061,4.4772224430000005,Nelson Mandelabrug,6,2719 EZ,Zoetermeer,Netherlands
+Zoetermeer Oost,ztmo,52.04639053,4.492777824,Zuidweg,??,2718,Zoetermeer,Netherlands
+Zuidbroek,zb,53.15961228,6.8679142,Stationsstraat,5,9636 BA,Zuidbroek,Netherlands
+Zuidhorn,zh,53.2486292,6.4062361,Hooiweg,9,9801 AJ,Zuidhorn,Netherlands
+Zutphen,zp,52.14527893,6.19416666,Havenstraat,25-35,7202,Zutphen,Netherlands
+Zwaagwesteinde tot 13 dec,zww,53.248169999999995,6.03463,Bûterwei,14,9271 EN,De Westereen,Netherlands
+Zwijndrecht,zwd,51.81499863,4.641666889,Westelijke Parallelweg,50,3331 EW,Zwijndrecht,Netherlands
+Zwolle,zl,52.5047226,6.091944217999999,Stationsplein,25,8011 CW,Zwolle,Netherlands
