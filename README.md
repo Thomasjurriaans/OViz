@@ -9,7 +9,7 @@ This gif plays slower than the actual video created, [click here](https://giant.
 ## Requirements
 1. FFmpeg with x264 support [(Windows)](https://www.wikihow.com/Install-FFmpeg-on-Windows)
 2. Two NS API keys, available for free [here](https://apiportal.ns.nl). You need a key for the "getSpoorkaart" API and one for "getTrips".
-3. The Python Libraries in ```requirements.txt```, use Python 3.7.5 if you can. You can install the libraries by running ```pip install -r requirements```, or having your IDE install them for you (PyCharm does this). 
+3. The Python Libraries in ```requirements.txt```, use Python 3.7.5 if you can. You can install the libraries by running ```pip install -r requirements.txt```, or having your IDE install them for you (PyCharm does this). 
 
 ## Usage
 1. Clone this repository.
