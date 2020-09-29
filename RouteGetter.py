@@ -25,7 +25,7 @@ def get_route(route_key, origin, to):
 
     try:
         conn = http.client.HTTPSConnection('gateway.apiportal.ns.nl')
-        conn.request("GET", "/public-reisinformatie/api/v3/trips?%s" % params, "{body}", headers)
+        conn.request("GET", "/reisinformatie-api/api/v3/trips?%s" % params, "{body}", headers)
         response = conn.getresponse()
         data = response.read()
         conn.close()

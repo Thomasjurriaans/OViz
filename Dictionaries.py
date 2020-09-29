@@ -10,6 +10,10 @@ name_to_code = {
     "Delft Zuid (t/m 14 dec)": "dtz",
     "Zaandijk Zaanse Schans": "zzs",
     "Koog aan de Zaan": "kz",
+    "Mook-Molenhoek": "mmlh",
+    "Eindhoven Centraal": "ehv",
+    "Delft Campus": "dtz",
+    "Lansingerland-Zoetermeer": "‎llzm",
 
 
     's-Hertogenbosch': 'ht', 's-Hertogenbosch Oost': 'hto', 't Harde': 'hde', 'Aachen Hbf': 'ahbf', 'Aachen Rothe Erde': 'are', 'Aachen Schanz': 'asch', 'Aachen West': 'aw', 'Aalten': 'atn', 'Abcoude': 'ac', 'Ahaus': 'eahs',
