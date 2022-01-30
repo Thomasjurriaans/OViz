@@ -150,7 +150,6 @@ def parse_railmap_data(data):
     json_extracted = json_data['payload']['features']                         # Take features, from payload, from json data.
     df = pd.DataFrame(json_extracted)
 
-
     df.insert(1, 'origin', df['properties'].apply(lambda x: x['from']))         # Extract origin from properties column
     df.insert(2, 'to', df['properties'].apply(lambda x: x['to']))               # Extract to
     df['coordinates'] = df['geometry'].apply(lambda x: x['coordinates'])        # Extract coordinates from geometry column

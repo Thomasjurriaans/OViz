@@ -151,6 +151,12 @@ crashlytics-build.properties
 
 fabric.properties
 
+# Project specific
 
+img/base.png
 data/travelhistory/raw/20*
+data/travelhistory/fullhistory.pkl
+data/railmap/railmap.pkl
+data/stations/filteredstations.csv
+
 
