@@ -141,8 +141,16 @@ def get_railmap_data(map_key, refresh=True):
 
 
 def parse_railmap_data(data):
-    json_data = json.loads(data)['payload']['features']                         # Take features, from payload, from json data.
-    df = pd.DataFrame(json_data)
+    json_data = json.loads(data)
+
+    # if there is a message there was an error in the request, print the message instead of just throwing an error
+    if 'message' in json_data:
+        print(json_data['message'])
+
+    json_extracted = json_data['payload']['features']                         # Take features, from payload, from json data.
+    df = pd.DataFrame(json_extracted)
+
+
     df.insert(1, 'origin', df['properties'].apply(lambda x: x['from']))         # Extract origin from properties column
     df.insert(2, 'to', df['properties'].apply(lambda x: x['to']))               # Extract to
     df['coordinates'] = df['geometry'].apply(lambda x: x['coordinates'])        # Extract coordinates from geometry column
