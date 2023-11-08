@@ -1,9 +1,12 @@
 # OViz
 This program can be used to visualise any train journeys made in the Netherlands with an OV-Chipkaart.
 
-This gif plays slower than the actual video created, [click here](https://giant.gfycat.com/DentalPiercingGrub.webm) for a more accurate representation.
 
-![gif](http://i.imgur.com/pPbUofZ.gif)
+
+https://github.com/Thomasjurriaans/OViz/assets/20623697/32903ca1-5101-433d-8b25-4e9fa03f2a53
+
+
+
 
 
 ## Requirements
@@ -20,6 +23,6 @@ This gif plays slower than the actual video created, [click here](https://giant.
 6. Please credit by linking this repo :)
 
 
-This is my first hobby project in Python. I tried to make the code as clear as possible and add comments where necessary, hopefully this makes the code easier to understand. Feedback or questions are always welcome!
+This was my first larger hobby project in Python. I tried to make the code as clear as possible and add comments where necessary, hopefully this makes the code easier to understand. Feedback or questions are always welcome!
 
 Inspired by: https://github.com/guushoekman/train-journeys
